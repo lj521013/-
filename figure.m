@@ -1,0 +1,10 @@
+%»æÍ¼
+clear;clc;
+tic;
+x0=[0.3,0.3]';
+[x,val,k,error]=frcg('fun','gfun',x0)
+toc;
+t=0:k;
+semilogy(t,error,'LineWidth',2);
+xlabel('µü´ú´ÎÊý');
+ylabel('error');
