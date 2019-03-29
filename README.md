@@ -1,7 +1,7 @@
 # -
-BFGS/阻尼Newton/FR共轭梯度/最速下降 求Shubert函数极小值
-fun.m:函数
-gfun.m：函数梯度
+BFGS/阻尼Newton/FR共轭梯度/最速下降 求Shubert函数极小值-
+fun.m:函数-
+gfun.m：函数梯度-
 Hess.m:函数Hessian矩阵
 frcg.m:共轭梯度法求极小值
 zsxj.m:最速下降法求极小值
